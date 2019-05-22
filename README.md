@@ -1,2 +1,3 @@
-# Insite-2019
-Non-visual Navigation and Gallery Exploration Project: CSCI 2340 Databases course
+# Databases-Final-Project
+
+This project was created in Visual Studio for Bowdoin'ed CS 2340 class for indoor low-vision navigation.

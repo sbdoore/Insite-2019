@@ -1,0 +1,10 @@
+1) Integrate with database to load paintings into memory
+2) Create virtual map of room for use in tour
+3) create the virtual "tour" around the room
+
+4) Design the look of the app with the UX/UI team
+
+https://docs.microsoft.com/en-us/xamarin/ios/get-started/installation/device-provisioning/free-provisioning?tabs=macos
+
+
+data bind xcoor and ycoor for updates
